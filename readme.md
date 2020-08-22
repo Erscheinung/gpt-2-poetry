@@ -1,6 +1,7 @@
 # gpt-2-poetry
 
-## Try the [demo](https://kylemcdonald.github.io/gpt-2-poetry/).
+## Try the forked version [demo](https://erscheinung.github.io/gpt-2-poetry/).
+## Try the original [demo](https://kylemcdonald.github.io/gpt-2-poetry/).
 
 I used [download-urls.py](https://gist.github.com/kylemcdonald/3cbd09752e340849e4b3cb4f12dd8c85) to quickly download the HTML from [poetryfoundation.org](poetryfoundation.org) based on the urls in `romantic-urls.txt`.
 
